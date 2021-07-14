@@ -1,0 +1,14 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Test app for node testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "govind",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
